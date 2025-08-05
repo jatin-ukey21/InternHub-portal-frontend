@@ -26,7 +26,8 @@ A simple and responsive full-stack **Internship/Volunteer Portal** built with **
 - Encourages users to apply for internships
 
 📸 **Screenshot:**
-![Home Desktop](./src/screenshots/HomePage_desktop.png)
+- Home page (Desktop view): ![Home Desktop](./src/screenshots/HomePage_desktop.png)
+- Home page (Mobile view): ![Home Desktop](./src/screenshots/HomePage_mobile.png)
 
 ---
 
